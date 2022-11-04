@@ -31,6 +31,8 @@ Skills:  JS / HTML / CSS / C / Python
 
 ![Profile views](https://gpvc.arturio.dev/jks46)  
 -->
+<!-- possibly unique -->
+
 
 
 <!--
