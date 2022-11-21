@@ -9,7 +9,7 @@
 <!--![Profile views](https://gpvc.arturio.dev/jks46) 23 last checked -->
 
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jks46&show_icons=true&theme=synthwave&hide_border=true&hide=issues,contribs&count_private=true" alt="JKS's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jks46&layout=compact&theme=synthwave&hide_border=true" alt="JKS's most used languages" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jks46&show_icons=true&theme=synthwave&hide_border=true&count_private=true" alt="JKS's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jks46&layout=compact&theme=synthwave&hide_border=true" alt="JKS's most used languages" /></a> |
 | ------------- | ------------- |
 
 <!--
@@ -34,20 +34,3 @@ Skills:  JS / HTML / CSS / C / Python
 ![Profile views](https://gpvc.arturio.dev/jks46)  
 -->
 <!-- possibly unique -->
-
-
-
-<!--
-**JKS46/jks46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
