@@ -4,10 +4,6 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/jks46/count.svg" />
 </p>
-<!-- not unique visitor,just the page reload counter -->
-
-<!--![Profile views](https://gpvc.arturio.dev/jks46) 23 last checked -->
-
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jks46&show_icons=true&theme=synthwave&hide_border=true&count_private=true" alt="JKS's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jks46&layout=compact&theme=synthwave&hide_border=true" alt="JKS's most used languages" /></a> |
 | ------------- | ------------- |
@@ -33,4 +29,3 @@ Skills:  JS / HTML / CSS / C / Python
 
 ![Profile views](https://gpvc.arturio.dev/jks46)  
 -->
-<!-- possibly unique -->
